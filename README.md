@@ -16,6 +16,6 @@ I'll add screenshots I suppose but yeah that'll double the time it takes to writ
 
    Click on the green CODE button towards the right up near the top, then click the COPY link next to the URL...
 
-   https://psychaesthetic.com.au/photobox/images/2020/08/04/step-1.png
+   <img src="https://psychaesthetic.com.au/photobox/images/2020/08/04/step-1.png" width="100%">
 
 
