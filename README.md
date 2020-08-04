@@ -7,4 +7,6 @@ This repository is completely seperate to the group website so you can all just 
 ## Using Github
 Though I am still unclear what days we're meant to be holding group discussions and unsure whether I'm meant to try and teach the four of you how to use this platform, It would probably be easier anyway to simple add a step-by-step right here - with notes - to tell you what do to because it's really, yeah: at our level it's really not hard at all - all we are needing to do is clone the repository and upload/update files as we go and functions like forking etcetera are nothing we have to concern ourselves with and probably won't for the duration of the unit.
 
+On with it anyway..
 
+### 1. Clone this repository
