@@ -62,4 +62,4 @@ I'll add screenshots I suppose but yeah that'll double the time it takes to writ
 
    Any questions about anything I've been unclear on, you can all shoot at me in Whatssapp or Teams, or text even if you like.
 
-   And when I say PUSH, it actually displays on the buttons usually as <kbd>Push Origin</kbd> and COMMIT is <i>actually</i> <kbd>Commit to Master</kbd> but it's the same thing.
+   And when I say PUSH, it actually displays on the buttons usually as <kbd><b>Push origin</b></kbd> and COMMIT is <i>actually</i> <kbd><b>Commit to master</b></kbd> but it's the same thing.
