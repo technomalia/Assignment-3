@@ -30,8 +30,18 @@ I'll add screenshots I suppose but yeah that'll double the time it takes to writ
 
    <u>One last thing:</u> Github Desktop will <i>automatically</i> create the containing folder when it copies the repository files to your computer - you <i>don't need</i> to create the repo's folder: say for example, you create a folder at <code><b>//desktop/repositories/assignment-03/</b></code> after clicking <kbd>CHOOSE</kbd>, you'll end-up with the cloned repository being copied to <code><b>//desktop/repositories/assignment-03/assignment-03/</b></code>
 
+   Anyway wherever you decide to clone the repository on your local machine, pick somewhere easy to access and maybe create a shortcut then copy/paste it to your desktop for easy access because, just because.
+
    ### 2. Using the repository
 
-   *...
+   Once you've cloned the repository to your local machine, use Windows Explorer or whatever file system thing you have to open the folder that's just been created and check there are files there - you should have this..
+
+   <img src="https://psychaesthetic.com.au/photobox/images/2020/08/04/local-repo.png" width="100%">
+
+   From this point on, all you will need to use Github Desktop for is updating the repository whenever you edit or add or delete files from your local repository folder: that's all github is used for.
+
+   Git constantly scans all files in the repository folder and any changes that're made are logged and shown within Github's Desktop application isntantly: whether you've heavily edited a word document, added or removed file(s) from the repo's directory or changed a single character in a text document git will track those changes and as soon as you open the program it'll show you the changes that need to be committed and pushed to the remote folder (or pulled to your local folder if someone else has made any changes) and will look like this..
+
+   
 
 
