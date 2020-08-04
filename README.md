@@ -14,4 +14,8 @@ I'll add screenshots I suppose but yeah that'll double the time it takes to writ
    ### 1. Clone this repository
    In whatever browser you use, navigate to https://github.com/technomalia/Assignment-3 and make sure you're logged-in.
 
+   Click on the green CODE button towards the right up near the top, then click the COPY link next to the URL...
+
+   https://psychaesthetic.com.au/photobox/images/2020/08/04/step-1.png
+
 
