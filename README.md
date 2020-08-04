@@ -18,7 +18,7 @@ I'll add screenshots I suppose but yeah that'll double the time it takes to writ
 
    <img src="https://psychaesthetic.com.au/photobox/images/2020/08/04/step-1.png" width="100%">
 
-   Now open Github Desktop if you haven't already and select <kbd>File->Clone Repository...<kbd> or press <kbd>CTRL + SHIFT + O</kbd> to open the Clone Repo dialog..
+   Now open Github Desktop if you haven't already and select <kbd>File->Clone Repository...</kbd> or press <kbd>CTRL + SHIFT + O</kbd> to open the Clone Repo dialog..
 
    <img src="https://psychaesthetic.com.au/photobox/images/2020/08/04/step-2.png" width="100%">
 
