@@ -42,6 +42,10 @@ I'll add screenshots I suppose but yeah that'll double the time it takes to writ
 
    Git constantly scans all files in the repository folder and any changes that're made are logged and shown within Github's Desktop application isntantly: whether you've heavily edited a word document, added or removed file(s) from the repo's directory or changed a single character in a text document git will track those changes and as soon as you open the program it'll show you the changes that need to be committed and pushed to the remote folder (or pulled to your local folder if someone else has made any changes) and will look like this..
 
-   
+   <img src="https://psychaesthetic.com.au/photobox/images/2020/08/04/changes.png" width="100%">
+
+   That's obviously only one file because all I've changed is this README.md as I've written it, but if I went and added a few images they'd show as changes needing to be committed as well...
+
+   <img src="https://psychaesthetic.com.au/photobox/images/2020/08/04/changes.png" width="100%">
 
 
