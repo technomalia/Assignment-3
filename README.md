@@ -48,14 +48,18 @@ I'll add screenshots I suppose but yeah that'll double the time it takes to writ
 
    <img src="https://psychaesthetic.com.au/photobox/images/2020/08/04/plus-images.png" width="100%">
 
-   So I click <b>COMMIT</b> to accept the changes being incuded in the next <b>PUSH</b>, then go ahead and click PUSH and those images will be uploaded to the remote repo folder and Github would now inform all you to <b>PULL</b> the changes next time you open Github Desktop or even just switch back to the app if it's already running.
+   So I click <b>COMMIT TO MASTER</b> to accept the changes being incuded in the next push, then go ahead and click <b>PUSH</b> and those images will be uploaded to the remote repo folder and Github would now inform all you to <b>PULL</b> the changes next time you open Github Desktop or even just switch back to the app if it's already running.
 
-   That's it really: if you use //assignment-3/[your-name]/ as your working folder for any files; spreadsheets, word documents, PDFs, images and anything else you're working on, then Github will make it easy as sh!t for everyone to keep the remote repository files as up-to-date as your local copies are and we can each access the latest version of everyone elses work if we need to reference or inclide it in our own.
+   That's it really.
+   
+   If you use //assignment-3/[your-name]/ as your working folder for any files; spreadsheets, word documents, PDFs, images and anything else you're working on, then Github will make it easy as sh!t for everyone to keep the remote repository files as up-to-date as your local copies are and we can each access the latest version of everyone elses work if we need to reference or inclide it in our own.
 
    If that clear enough without being condescending? 
 
-   I tried to explain everything completely and though it might read a bit patronizing in bits here and there, it's not meant to - just meant to explain how Git and Github function so you can all clone a copy of our repository - or repositories - without needing to have me sit in a live chat session and try to explain in?
+   I tried to explain everything completely and though it might read a bit patronizing in bits here and there, it's not meant to - just meant to explain how Git and Github function so you can all clone a copy of our repository - or repositories if you want - whenever you're ready and without needing to have me sit-down in a chat session and try to explain it all live.
 
-   Anyhow that should be enough, everyone should at least be able to clone //Assignment-3/ and use their named directory as a working folder for the assignment; which we probably should because it demonstrates everyone knows how to use Git and Github and also keeps track of what everyone is doing.
+  That <b>should</b> be enough, everyone <b>should</b> at least be able to clone //Assignment-3/ after reading this and use their named directory as a working folder for the assignment; which we probably should because it demonstrates everyone knows how to use Git and Github and also keeps track of what everyone is doing.
 
    Any questions about anything I've been unclear on, you can all shoot at me in Whatssapp or Teams, or text even if you like.
+
+   And when I say PUSH, it actually displays on the buttons usually as <kbd>Push to Origin</kbd> and COMMIT is usually <kbd>Commit to Master</KBD</kbd> though I'm talking about the same thing.
