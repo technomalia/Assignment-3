@@ -1,0 +1,20 @@
+SmartPet-20 Mobile App Menus
+============================
+
+	Login/Create-> [Account Page]
+                
+	Profile Page ---> | Create Pet |-> Name                          
+	                               |-> Weight                                       
+	                               |-> Species |-> Dog
+	                                           |-> Cat
+	                                           |-> Rabbit
+	                                           |-> Other
+	                               |-> Notes
+
+
+
+
+
+                               
+                               
+Settings->
